@@ -3,7 +3,7 @@ PENASLOT adalah situs daftar akun pro yang menawarkan keamanan dan kenyamanan da
 <hr/>
 
 Berbagai Promo dan Bonus yang tersedia!
-| BONUS   | Bahasa Pemrograman | Status   |
-|----------|--------------------|----------|
-| NEW MEMBER 10% | JavaScript    | Selesai  |
-| DEPOSIT 5% | Python             | Dalam Proses |
+|     BONUS      |     Klaim          | Status   |
+|----------------|--------------------|----------|
+| NEW MEMBER 10% | Livechat & Whatsapp    | TERSEDIA  |
+| DEPOSIT 5%     | Livechat & Whatsapp        | TERSEDIA |
