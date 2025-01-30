@@ -5,5 +5,5 @@ PENASLOT adalah situs daftar akun pro yang menawarkan keamanan dan kenyamanan da
 Berbagai Promo dan Bonus yang tersedia!
 |     BONUS      |     Klaim          | Status   |
 |----------------|--------------------|----------|
-| NEW MEMBER 10% | [![Intercom Live Chat](https://img.shields.io/badge/Live_Chat-Intercom-7B68EE?style=flat&logo=intercom&logoColor=white)](https://www.intercom.com/)   | TERSEDIA  |
+| NEW MEMBER 10% |  [![Live Chat](https://img.shields.io/badge/Live_Chat-00B8D4?style=flat&logo=chat&logoColor=white)](https://www.tawk.to/chat/)  | TERSEDIA  |
 | DEPOSIT 5%     | Livechat & Whatsapp        | TERSEDIA |
