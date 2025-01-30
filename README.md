@@ -7,4 +7,7 @@ Berbagai Promo dan Bonus yang tersedia!
 |----------------|--------------------|----------|
 | `NEW MEMBER 10%` |    [![Live Chat](https://img.shields.io/badge/Live_Chat-ff2d00?style=flat&logo=chat&logoColor=white)](https://t.ly/livechattt)  | `🟢 TERSEDIA` |
 | `DEPOSIT 5%`     |    [![Live Chat](https://img.shields.io/badge/Live_Chat-ff2d00?style=flat&logo=chat&logoColor=white)](https://t.ly/livechattt)  | `🟢 TERSEDIA` |
-| `PROMO 100% (25+25/50+05)`     |    [![Live Chat](https://img.shields.io/badge/Live_Chat-ff2d00?style=flat&logo=chat&logoColor=white)](https://t.ly/livechattt)  | `🟢 TERSEDIA` |
+| `PROMO 100% (25+25/50+50)`     |    [![Live Chat](https://img.shields.io/badge/Live_Chat-ff2d00?style=flat&logo=chat&logoColor=white)](https://t.ly/livechattt)  | `🟢 TERSEDIA` |
+<hr/>
+
+Nikmati pengalaman bermain yang seru dan menyenangkan hanya di PENASLOT.
